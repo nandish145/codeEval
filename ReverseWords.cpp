@@ -4,7 +4,7 @@
 #include<fstream>
 
 using namespace std;
-
+/*Write a program to reverse the words of an input sentence.*/
 void string_reverse(char *start,char* end)
 {
 	while(start < end)

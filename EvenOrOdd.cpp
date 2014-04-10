@@ -2,7 +2,7 @@
 #include<fstream>
 
 using namespace std;
-
+/*Write a program which checks input numbers and determines whether a number is even or not.*/
 int is_even(int number)
 {
 	if( number % 2 == 0)

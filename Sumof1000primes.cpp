@@ -2,7 +2,7 @@
 #include<cstdlib>
 
 using namespace std;
-
+/*Write a program to determine the sum of the first 1000 prime numbers.*/
 int main(int argc,char *argv[])
 {
 	int prime_count = 1;

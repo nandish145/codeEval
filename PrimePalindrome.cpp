@@ -2,7 +2,7 @@
 #include<cmath>
 
 using namespace std;
-
+/*Write a program to determine the biggest prime palindrome under 1000.*/
 bool check_palindrome(int index)
 {
 	char str[5];
